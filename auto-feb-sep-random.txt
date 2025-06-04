@@ -565,3 +565,4 @@ Work 06-04 task 3
 Work 06-04 task 4
 Work 06-04 task 5
 Work 06-04 task 6
+Work 06-04 task 7
