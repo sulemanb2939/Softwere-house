@@ -3,3 +3,4 @@ UI tweaks Jan 10
 Bug fixes Jan 10
 API update Jan 10
 Refactor code Jan 10
+Docs update Jan 10
