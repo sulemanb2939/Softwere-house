@@ -1,3 +1,4 @@
 Work done on Jan 12
 UI updates Jan 12
 Bug fixes Jan 12
+API improvements Jan 12
