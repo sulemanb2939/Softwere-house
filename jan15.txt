@@ -2,3 +2,4 @@ Work done on Jan 15
 UI updates Jan 15
 Bug fixes Jan 15
 API improvements Jan 15
+Code refactor Jan 15
